@@ -1,0 +1,52 @@
+name: Napi ar- es keszletfeed
+
+on:
+  schedule:
+    # 05:30 UTC = 07:30 budapesti idő (nyari idoszamitas alatt 07:30 CEST)
+    - cron: "30 5 * * *"
+  workflow_dispatch:        # kezi inditas is lehetseges
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Repo letoltese
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Feed generalasa
+        # Ha a sanity-check elbukik, a script 1-es koddal leall, a lepes elbukik,
+        # es a kovetkezo commit-lepes NEM fut le -> a legutobbi JO feed marad kint.
+        run: python scrape.py
+
+      - name: Valid JSON ellenorzese
+        run: |
+          python -c "import json,sys; d=json.load(open('feed.json')); \
+            n=len(d['products']); \
+            print('termek:', n); \
+            sys.exit(1) if n < 350 else None"
+
+      - name: Commit es push (csak ha valtozott)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json feed.csv state.json
+          if git diff --staged --quiet; then
+            echo "Nincs valtozas, nincs commit."
+          else
+            git commit -m "Feed frissites: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
