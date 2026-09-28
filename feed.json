@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-09-27T10:38:47Z",
+  "generalva": "2026-09-28T11:51:16Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 433,
@@ -131,7 +131,7 @@
    "ar_tipus": "brutto (netto szamitott, 19% MwSt)",
    "tol_ar": false,
    "variansos": true,
-   "kiszereles": "1 Laufende(r) Meter",
+   "kiszereles": "",
    "ar_fix": false,
    "listaar": null,
    "akcios": false,
@@ -142,14 +142,14 @@
    "rendelheto": true,
    "suly_kg": 0.78,
    "fokep_url": "https://www.solartronics.de/media/image/c8/3f/b2/INVOLT-H05RR-F-2-fach-Verlaengerungskabel-3m-IP44-Schutzkontaktverteiler.png",
-   "utolso_modositas": "2026-07-15",
+   "utolso_modositas": "2026-09-28",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
   {
    "url": "https://www.solartronics.de/stromverteiler-230v-400v/kabel-und-leitungen/3-fach-verlaengerungskabel-ip44-h05rr-f-3g1-5-mm2-h05rr-8",
    "cikkszam": "H05RR-8",
-   "ean": "4068508022753",
+   "ean": "4068508022678",
    "termek_id": "14568",
    "nev": "3-fach Verlängerungskabel IP44 – H05RR-F 3G1,5 mm²",
    "marka": "INVOLT",
@@ -169,7 +169,7 @@
    "rendelheto": true,
    "suly_kg": 0.78,
    "fokep_url": "https://www.solartronics.de/media/image/1b/59/fb/INVOLT-H05RR-F-3-fach-Verlaengerungskabel-3m-IP44-Schutzkontaktverteiler.jpg",
-   "utolso_modositas": "2026-07-15",
+   "utolso_modositas": "2026-09-28",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
