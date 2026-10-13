@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-10-12T13:21:46Z",
+  "generalva": "2026-10-13T12:49:55Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 434,
@@ -5947,7 +5947,7 @@
    "rendelheto": true,
    "suly_kg": 0.27,
    "fokep_url": "https://www.solartronics.de/media/image/06/86/4e/solartronics_Solarkablel_drum-1.png",
-   "utolso_modositas": "2026-08-18",
+   "utolso_modositas": "2026-10-12",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -6838,7 +6838,7 @@
    "rendelheto": true,
    "suly_kg": 4.5,
    "fokep_url": "https://www.solartronics.de/media/image/cc/f9/50/solartronics-solarmodul-150w-mono-vorderseite-all-black.jpg",
-   "utolso_modositas": "2026-07-15",
+   "utolso_modositas": "2026-10-12",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
