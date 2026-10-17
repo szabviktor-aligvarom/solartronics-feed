@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-10-16T09:59:57Z",
+  "generalva": "2026-10-17T09:32:52Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 436,
@@ -1816,7 +1816,7 @@
    "rendelheto": true,
    "suly_kg": 0.4,
    "fokep_url": "https://www.solartronics.de/media/image/91/a5/95/Solar_Laderegler_gelb_30A_40A_mit_Display_solartronics_1.jpg",
-   "utolso_modositas": "2026-09-10",
+   "utolso_modositas": "2026-10-16",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -11131,7 +11131,7 @@
    "rendelheto": true,
    "suly_kg": null,
    "fokep_url": "https://www.solartronics.de/media/image/e8/7e/7c/Reiner-Sinus-Wechselrichter-24V-2000W-mit-Display-Fernbedienung-und-solartronics-Branding-freigestellt.jpg",
-   "utolso_modositas": "",
+   "utolso_modositas": "2026-10-16",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
