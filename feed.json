@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-10-23T10:19:05Z",
+  "generalva": "2026-10-24T09:40:57Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 439,
@@ -768,7 +768,7 @@
    "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/4672",
+   "url": "https://www.solartronics.de/involt-mobiler-stromzaehler-230-v-16-a-mit-fi/ls-typ-a-schuko-ip44-iv-dm-01-fba",
    "cikkszam": "IV-DM-01_fba",
    "ean": "4068508024078",
    "termek_id": "15263",
@@ -791,11 +791,8 @@
    "suly_kg": 0.8,
    "fokep_url": "",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/involt-mobiler-stromzaehler-230-v-16-a-mit-fi/ls-typ-a-schuko-ip44-iv-dm-01-fba"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
    "url": "https://www.solartronics.de/stromverteiler-230v-400v/verteiler-und-adapter/involt-stromverteiler-baustromverteiler-verteiler-cee-16a/400v-230v-steckdosenverteiler-iv-bst-001",
@@ -9298,12 +9295,9 @@
    "rendelheto": true,
    "suly_kg": 7.0,
    "fokep_url": "https://www.solartronics.de/media/image/50/ca/ca/NM2500_12V_2500w_Spannungswandler_modifiziert_schwarz_solartronics_1.jpg",
-   "utolso_modositas": "",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-nm-12v-2500-watt-nm250012v"
-   ]
+   "utolso_modositas": "2026-10-22",
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
    "url": "https://www.solartronics.de/spannungswandler-12v/wandler-modifizierter-sinus/spannungswandler-nm-12v-300-watt-nm30012v",
@@ -9468,7 +9462,7 @@
    "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/3331",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-1000-watt-nm100024v",
    "cikkszam": "NM100024V",
    "ean": "4260464590127",
    "termek_id": "9134",
@@ -9491,14 +9485,11 @@
    "suly_kg": 2.5,
    "fokep_url": "https://www.solartronics.de/media/image/a4/52/79/spannungswandler-nm-24v-1000-watt_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-1000-watt-nm100024v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/3337",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-1500-watt-nm150024v",
    "cikkszam": "NM150024V",
    "ean": "4260464591247",
    "termek_id": "9140",
@@ -9521,14 +9512,11 @@
    "suly_kg": 3.0,
    "fokep_url": "https://www.solartronics.de/media/image/5a/9b/37/NM1500_24V_1500w_Spannungswandler_modifiziert_schwarz_solartronics_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-1500-watt-nm150024v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/3345",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-2000-watt-nm200024v",
    "cikkszam": "NM200024V",
    "ean": "4260464596075",
    "termek_id": "9148",
@@ -9551,14 +9539,11 @@
    "suly_kg": 6.0,
    "fokep_url": "https://www.solartronics.de/media/image/fa/42/27/NM2000_24V_2000w_Spannungswandler_modifiziert_schwarz_solartronics_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-2000-watt-nm200024v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/3334",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-2500-watt-nm250024v",
    "cikkszam": "NM250024V",
    "ean": "4260464590158",
    "termek_id": "9137",
@@ -9581,14 +9566,11 @@
    "suly_kg": 4.9,
    "fokep_url": "https://www.solartronics.de/media/image/7f/a3/6a/spannungswandler-nm-24v-2500-watt_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-2500-watt-nm250024v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/1831",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-300-watt-nm30024v",
    "cikkszam": "NM30024V",
    "ean": "4260464590103",
    "termek_id": "7032",
@@ -9611,14 +9593,11 @@
    "suly_kg": 0.8,
    "fokep_url": "https://www.solartronics.de/media/image/96/89/94/NM300_24V_300w_Spannungswandler_modifiziert_schwarz_solartronics_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-300-watt-nm30024v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/3332",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-3000-watt-nm300024v",
    "cikkszam": "NM300024V",
    "ean": "4260464590165",
    "termek_id": "9135",
@@ -9641,14 +9620,11 @@
    "suly_kg": 6.9,
    "fokep_url": "https://www.solartronics.de/media/image/af/32/9f/NM3000_24V_3000w_Spannungswandler_modifiziert_schwarz_solartronics_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-3000-watt-nm300024v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/2435",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-4000-watt-nm4000w24v",
    "cikkszam": "NM4000W24V",
    "ean": "4260464590172",
    "termek_id": "7889",
@@ -9671,14 +9647,11 @@
    "suly_kg": 10.0,
    "fokep_url": "https://www.solartronics.de/media/image/22/g0/f4/NM4000_24V_4000w_Spannungswandler_modifiziert_schwarz_solartronics_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-4000-watt-nm4000w24v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/2436",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-5000-watt-nm5000w24v",
    "cikkszam": "NM5000W24V",
    "ean": "4260464591209",
    "termek_id": "7890",
@@ -9701,14 +9674,11 @@
    "suly_kg": 10.0,
    "fokep_url": "https://www.solartronics.de/media/image/15/9a/d2/solartronics_Spannungswandler_NM5000_12V_5000_Watt_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-5000-watt-nm5000w24v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/3330",
+   "url": "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-600-watt-nm60024v",
    "cikkszam": "NM60024V",
    "ean": "4260464590110",
    "termek_id": "9133",
@@ -9731,11 +9701,8 @@
    "suly_kg": 1.1,
    "fokep_url": "https://www.solartronics.de/media/image/59/17/fa/NM600_24V_600w_Spannungswandler_modifiziert_schwarz_solartronics_1.jpg",
    "utolso_modositas": "2026-10-22",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/spannungswandler-24v-48v/wandler-modifizierter-sinus/spannungswandler-nm-24v-600-watt-nm60024v"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
    "url": "https://www.solartronics.de/spannungswandler-np-12v-1000-watt-power-usb-2.1a-reiner-sinus-gold-edition-0212101ge",
