@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-03T12:55:23Z",
+  "generalva": "2026-11-04T13:08:51Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 436,
@@ -115,7 +115,7 @@
    "rendelheto": true,
    "suly_kg": 3.23,
    "fokep_url": "https://www.solartronics.de/media/image/77/0d/94/INVOLT-H07RN-F-5x2-5mm2-Starkstromkabel-gummikabel-10m.jpg",
-   "utolso_modositas": "2026-10-20",
+   "utolso_modositas": "2026-11-04",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -655,7 +655,7 @@
    "rendelheto": true,
    "suly_kg": 0.16,
    "fokep_url": "https://www.solartronics.de/media/image/50/dc/ac/involt-schuko-kupplung-16A-230V-IP44-Produktbild-freigestellt-IV-BST-006.jpg",
-   "utolso_modositas": "2026-11-02",
+   "utolso_modositas": "2026-11-03",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -2215,13 +2215,13 @@
    "listaar": null,
    "akcios": false,
    "kedvezmeny_szazalek": null,
-   "keszleten_van": false,
-   "keszlet_statusz": "nincs raktaron (beszerzes alatt)",
-   "szallitasi_info": "Lieferzeit 5-10 Tage",
+   "keszleten_van": true,
+   "keszlet_statusz": "raktaron",
+   "szallitasi_info": "Sofort versandfertig, Lieferzeit 1-3 Werktage",
    "rendelheto": true,
    "suly_kg": 0.55,
    "fokep_url": "https://www.solartronics.de/media/image/87/b8/5c/Solartronics_Laderegler_Display_blau.jpg",
-   "utolso_modositas": "2026-11-02",
+   "utolso_modositas": "2026-11-04",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -9316,13 +9316,13 @@
    "listaar": null,
    "akcios": false,
    "kedvezmeny_szazalek": null,
-   "keszleten_van": true,
-   "keszlet_statusz": "raktaron",
-   "szallitasi_info": "Sofort versandfertig, Lieferzeit 1-3 Werktage",
+   "keszleten_van": false,
+   "keszlet_statusz": "utanpotlas uton",
+   "szallitasi_info": "Lieferzeit 60 Tage",
    "rendelheto": true,
    "suly_kg": 7.0,
    "fokep_url": "https://www.solartronics.de/media/image/15/9a/d2/solartronics_Spannungswandler_NM5000_12V_5000_Watt_1.jpg",
-   "utolso_modositas": "2026-10-26",
+   "utolso_modositas": "2026-11-04",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -11617,7 +11617,7 @@
    "rendelheto": true,
    "suly_kg": 0.1,
    "fokep_url": "https://www.solartronics.de/media/image/3e/41/8e/temp__57_6_0UJnuEUfcDH8W.jpg",
-   "utolso_modositas": "2026-07-02",
+   "utolso_modositas": "2026-11-03",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -11779,7 +11779,7 @@
    "rendelheto": true,
    "suly_kg": 3.0,
    "fokep_url": "https://www.solartronics.de/media/image/79/0a/8a/NM1500_1500_Watt_12V_Spannungswandler_Wechselrichter_solartronics_1.jpg",
-   "utolso_modositas": "2026-08-10",
+   "utolso_modositas": "2026-11-04",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   }
