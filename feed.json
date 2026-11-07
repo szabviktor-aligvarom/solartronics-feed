@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-06T13:05:55Z",
+  "generalva": "2026-11-07T11:50:36Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 432,
@@ -768,9 +768,9 @@
    "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/verlaengerungskabel-konvolut-ruecklaeufer-verschnitt-mit/ohne-pv-stecker-4/6mm2-h07v-k-r-20kg",
+   "url": "https://www.solartronics.de/verlaengerungskabel-konvolut-ruecklaeufer-verschnitt-mit/ohne-pv-stecker-4/6mm2-h07v-k-r-10kg",
    "cikkszam": "H07V-K-R-10Kg",
-   "ean": "",
+   "ean": "4068508025495",
    "termek_id": "14556",
    "nev": "Verlängerungskabel Konvolut Rückläufer Verschnitt mit/ohne PV Stecker 4/6mm²",
    "marka": "INVOLT",
@@ -790,9 +790,12 @@
    "rendelheto": true,
    "suly_kg": 10.0,
    "fokep_url": "https://www.solartronics.de/media/image/40/0e/82/20260626_082919.jpg",
-   "utolso_modositas": "2026-11-06",
-   "duplikalt_cikkszam": false,
-   "duplikalt_db": 1
+   "utolso_modositas": "",
+   "duplikalt_cikkszam": true,
+   "duplikalt_db": 2,
+   "duplikalt_url_k": [
+    "https://www.solartronics.de/verlaengerungskabel-konvolut-ruecklaeufer-verschnitt-mit/ohne-pv-stecker-4/6mm2-h07v-k-r-20kg"
+   ]
   },
   {
    "url": "https://www.solartronics.de/stromverteiler-230v-400v/stecker-und-kuplungen/1-10er-pack-cee-kupplung-16a-400-ip44-5-polig-weiblich-mit-klappdeckel-sp-c2-151",
@@ -10887,7 +10890,7 @@
    "szallitasi_info": "Sofort versandfertig, Lieferzeit 1-3 Werktage",
    "rendelheto": true,
    "suly_kg": null,
-   "fokep_url": "https://www.solartronics.de/media/image/b6/60/g0/solartronics-cee-verteiler-230V-16a-2x-schuko-1x-cee-1-5m.jpg",
+   "fokep_url": "https://www.solartronics.de/media/image/99/26/b5/1605C-C213.jpg",
    "utolso_modositas": "2026-11-06",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
