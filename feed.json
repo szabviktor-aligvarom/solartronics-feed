@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-07T11:50:36Z",
+  "generalva": "2026-11-08T12:03:22Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 432,
@@ -790,12 +790,9 @@
    "rendelheto": true,
    "suly_kg": 10.0,
    "fokep_url": "https://www.solartronics.de/media/image/40/0e/82/20260626_082919.jpg",
-   "utolso_modositas": "",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/verlaengerungskabel-konvolut-ruecklaeufer-verschnitt-mit/ohne-pv-stecker-4/6mm2-h07v-k-r-20kg"
-   ]
+   "utolso_modositas": "2026-11-06",
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
    "url": "https://www.solartronics.de/stromverteiler-230v-400v/stecker-und-kuplungen/1-10er-pack-cee-kupplung-16a-400-ip44-5-polig-weiblich-mit-klappdeckel-sp-c2-151",
@@ -5923,7 +5920,7 @@
    "rendelheto": true,
    "suly_kg": 10.0,
    "fokep_url": "https://www.solartronics.de/media/image/db/48/26/IMG_8820.jpg",
-   "utolso_modositas": "2026-05-05",
+   "utolso_modositas": "2026-11-06",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
