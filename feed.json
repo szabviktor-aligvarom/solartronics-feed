@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-09T14:08:21Z",
+  "generalva": "2026-11-10T13:39:29Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 432,
@@ -250,7 +250,7 @@
    "rendelheto": true,
    "suly_kg": 3.0,
    "fokep_url": "https://www.solartronics.de/media/image/5c/84/5c/involt-baustromverteiler-baustelle-test-starkstrom-400v-230v-seitenansicht-iv-bst-003.jpg",
-   "utolso_modositas": "2026-10-19",
+   "utolso_modositas": "2026-11-10",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -6865,7 +6865,7 @@
    "rendelheto": true,
    "suly_kg": 9.0,
    "fokep_url": "https://www.solartronics.de/media/image/cc/f9/50/solartronics-solarmodul-150w-mono-vorderseite-all-black.jpg",
-   "utolso_modositas": "2026-10-12",
+   "utolso_modositas": "2026-11-09",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -8782,7 +8782,7 @@
    "rendelheto": true,
    "suly_kg": 10.0,
    "fokep_url": "https://www.solartronics.de/media/image/15/d7/73/114-fs3000d-24v-rein-01.jpg",
-   "utolso_modositas": "2026-09-17",
+   "utolso_modositas": "2026-11-09",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
