@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-13T13:17:13Z",
+  "generalva": "2026-11-14T12:22:09Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 437,
@@ -579,7 +579,7 @@
    "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/4686",
+   "url": "https://www.solartronics.de/involt-cee-adapter-32a-auf-16a-starkstrom-adapter-32a-stecker-auf-16a-kupplung-mit-leitungsschutzs-iv-bst-011",
    "cikkszam": "IV-BST-011",
    "ean": "4068508023927",
    "termek_id": "15288",
@@ -602,11 +602,8 @@
    "suly_kg": 1.65,
    "fokep_url": "https://www.solartronics.de/media/image/95/d1/1d/INVOLT-CEE-Adapter-32A-auf-16A-400V-mit-Sicherung-IV-BST-011.png",
    "utolso_modositas": "2026-11-12",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/involt-cee-adapter-32a-auf-16a-starkstrom-adapter-32a-stecker-auf-16a-kupplung-mit-leitungsschutzs-iv-bst-011"
-   ]
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
    "url": "https://www.solartronics.de/involt-cee-kombi-wandsteckdose-230v-380v-ip44-5-polig-iv-bst-016",
@@ -658,7 +655,7 @@
    "rendelheto": true,
    "suly_kg": 0.82,
    "fokep_url": "https://www.solartronics.de/media/image/a7/4d/c9/INVOLT-cee-adapterkabel-16a-auf-32a-400v-5-polig-1m-H07RN-F-anschluesse.jpg",
-   "utolso_modositas": "2026-10-20",
+   "utolso_modositas": "2026-11-13",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -685,7 +682,7 @@
    "rendelheto": true,
    "suly_kg": 0.61,
    "fokep_url": "https://www.solartronics.de/media/image/15/b4/51/involt-cee-adapter-32a-16a-400v-5-polig-h07rn-f-ip44.jpg",
-   "utolso_modositas": "",
+   "utolso_modositas": "2026-11-13",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -847,12 +844,12 @@
    "rendelheto": true,
    "suly_kg": 2.5,
    "fokep_url": "https://www.solartronics.de/media/image/1c/35/ef/involt-baustromverteiler-16a-400v-6x230v-schuko-mobiler-stromverteiler-produktbild.jpg",
-   "utolso_modositas": "2026-10-19",
+   "utolso_modositas": "2026-11-13",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
   {
-   "url": "https://www.solartronics.de/detail/index/sArticle/4691",
+   "url": "https://www.solartronics.de/involt-wlan-steckdose-outdoor-ip44-16a-3840w-mit-strommessung-smart-life-tuya-alexa-google-hom-iv-wps-001",
    "cikkszam": "IV-WPS-001",
    "ean": "4068508023934",
    "termek_id": "15296",
@@ -874,12 +871,9 @@
    "rendelheto": true,
    "suly_kg": 0.1,
    "fokep_url": "https://www.solartronics.de/media/image/e7/57/a3/INVOLT-WLAN-Outdoor-Steckdose-16A-IP44-Spritzwassergeschuetzt-IV-WPS-001.jpg",
-   "utolso_modositas": "2026-11-12",
-   "duplikalt_cikkszam": true,
-   "duplikalt_db": 2,
-   "duplikalt_url_k": [
-    "https://www.solartronics.de/involt-wlan-steckdose-outdoor-ip44-16a-3840w-mit-strommessung-smart-life-tuya-alexa-google-hom-iv-wps-001"
-   ]
+   "utolso_modositas": "2026-11-13",
+   "duplikalt_cikkszam": false,
+   "duplikalt_db": 1
   },
   {
    "url": "https://www.solartronics.de/verlaengerungskabel-konvolut-ruecklaeufer-verschnitt-mit/ohne-pv-stecker-4/6mm2-h07v-k-r-10kg",
@@ -2929,7 +2923,7 @@
    "rendelheto": true,
    "suly_kg": null,
    "fokep_url": "https://www.solartronics.de/media/image/8a/7a/b4/INVOLT-WLAN-Outdoor-Doppelsteckdose-16A-IP44-Schuko-IV-WPS-002.jpg",
-   "utolso_modositas": "",
+   "utolso_modositas": "2026-11-13",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
