@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-17T14:44:03Z",
+  "generalva": "2026-11-18T14:23:59Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 437,
@@ -385,7 +385,7 @@
    "rendelheto": true,
    "suly_kg": 0.21,
    "fokep_url": "https://www.solartronics.de/media/image/e0/7c/e3/h07v-k-6mm2-verdrahtungsleitung-1m-set-schwarz-blau-gruen-gelb-20-aderendhuelsen.jpg",
-   "utolso_modositas": "2026-07-09",
+   "utolso_modositas": "2026-11-17",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -412,7 +412,7 @@
    "rendelheto": true,
    "suly_kg": 0.35,
    "fokep_url": "https://www.solartronics.de/media/image/9f/d1/cb/H07V_K-Zertifizierung.jpg",
-   "utolso_modositas": "2026-06-22",
+   "utolso_modositas": "2026-11-17",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -979,7 +979,7 @@
    "rendelheto": true,
    "suly_kg": 0.17,
    "fokep_url": "https://www.solartronics.de/media/image/f5/22/6f/solartronics-baustromverteiler-5-polig-maennlich-stomverteiler-230v-400v-16a-ip44-SP-P0151x1.jpg",
-   "utolso_modositas": "2026-08-23",
+   "utolso_modositas": "2026-11-17",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
