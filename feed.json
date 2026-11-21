@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-20T14:13:33Z",
+  "generalva": "2026-11-21T13:37:24Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 437,
@@ -196,7 +196,7 @@
    "rendelheto": true,
    "suly_kg": 0.43,
    "fokep_url": "https://www.solartronics.de/media/image/73/33/c8/H05RN-1-5m.jpg",
-   "utolso_modositas": "2026-10-20",
+   "utolso_modositas": "2026-11-20",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -385,7 +385,7 @@
    "rendelheto": true,
    "suly_kg": 0.21,
    "fokep_url": "https://www.solartronics.de/media/image/e0/7c/e3/h07v-k-6mm2-verdrahtungsleitung-1m-set-schwarz-blau-gruen-gelb-20-aderendhuelsen.jpg",
-   "utolso_modositas": "2026-11-17",
+   "utolso_modositas": "2026-11-19",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -2626,7 +2626,7 @@
    "rendelheto": true,
    "suly_kg": 0.12,
    "fokep_url": "https://www.solartronics.de/media/image/9e/51/a0/Batterieklemmen_Typ_STBK2_Autobatterie_Solarbatterie_Polklemmen_1_2.jpg",
-   "utolso_modositas": "2025-11-18",
+   "utolso_modositas": "2026-11-19",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -5623,7 +5623,7 @@
    "rendelheto": true,
    "suly_kg": 0.12,
    "fokep_url": "https://www.solartronics.de/media/image/c9/8e/0a/ST-1-6-PAAR.jpg",
-   "utolso_modositas": "2026-01-08",
+   "utolso_modositas": "2026-11-19",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -7162,7 +7162,7 @@
    "rendelheto": true,
    "suly_kg": 10.0,
    "fokep_url": "https://www.solartronics.de/media/image/b5/64/d5/1x200W_mono_18V_solarpanel_solartronics_1.jpg",
-   "utolso_modositas": "2025-12-01",
+   "utolso_modositas": "2026-11-19",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -7243,7 +7243,7 @@
    "rendelheto": true,
    "suly_kg": 11.7,
    "fokep_url": "https://www.solartronics.de/media/image/aa/8a/0c/solartronics-215W-solarmodul-monokristallin-18V-all-black-M21518A.png",
-   "utolso_modositas": "2026-11-06",
+   "utolso_modositas": "2026-11-19",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
@@ -8782,7 +8782,7 @@
    "rendelheto": true,
    "suly_kg": 5.6,
    "fokep_url": "https://www.solartronics.de/media/image/4e/0b/74/FS2000DR_Spannungswandler_24V_1.jpg",
-   "utolso_modositas": "2025-11-20",
+   "utolso_modositas": "2026-11-20",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
