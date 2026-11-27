@@ -1,7 +1,7 @@
 {
  "meta": {
   "forras": "https://www.solartronics.de",
-  "generalva": "2026-11-26T15:31:40Z",
+  "generalva": "2026-11-27T15:25:01Z",
   "penznem": "EUR",
   "ar_tipus": "brutto kiskereskedelmi ar (inkl. MwSt), nemet AFA 19%",
   "termek_db": 436,
@@ -7205,7 +7205,7 @@
    "ar_tipus": "brutto+netto (oldalrol)",
    "tol_ar": false,
    "variansos": true,
-   "kiszereles": "2 Stück (56,50 € * / 1 Stück)",
+   "kiszereles": "1 Stück",
    "ar_fix": false,
    "listaar": null,
    "akcios": false,
@@ -8647,7 +8647,7 @@
    "rendelheto": true,
    "suly_kg": 5.3,
    "fokep_url": "https://www.solartronics.de/media/image/2e/a2/fc/FS1500DR_Spannungswandler_24V_1.jpg",
-   "utolso_modositas": "2025-10-06",
+   "utolso_modositas": "2026-11-26",
    "duplikalt_cikkszam": false,
    "duplikalt_db": 1
   },
